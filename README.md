@@ -9,10 +9,7 @@
 [Fontes consultadas](#fontes-consultadas)
 [Autores](e#autores)
 
-# Sistema de salario
-
 ![Capa do projeto]
-
 
 ## Descrição 
 
