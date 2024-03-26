@@ -33,12 +33,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         return $salario_final;
     }
 
+    
     $nome_vendedor = $_POST['nome_vendedor'];
-    $vendas_semanais = $_POST['meta_semanal'];
+    $vendas_semanais = $_POST['meta_semanal']; 
     $meta_semanal = $_POST['meta_semanal'];
     $meta_mensal = $_POST['meta_mensal'];
-    $variavel_nao_definida = $variavel_inexistente + 10;
-    
+
     $salario_final = calcularSalarioVendedor($vendas_semanais, $meta_semanal, $meta_mensal);
     
     echo "<h3>Resultado para $nome_vendedor:</h3>";
