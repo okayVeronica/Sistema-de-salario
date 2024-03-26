@@ -37,8 +37,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $vendas_semanais = $_POST['meta_semanal'];
     $meta_semanal = $_POST['meta_semanal'];
     $meta_mensal = $_POST['meta_mensal'];
-
-    // Variável que não foi definida
     $variavel_nao_definida = $variavel_inexistente + 10;
     
     $salario_final = calcularSalarioVendedor($vendas_semanais, $meta_semanal, $meta_mensal);
