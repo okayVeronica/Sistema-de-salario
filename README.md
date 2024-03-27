@@ -1,6 +1,6 @@
 ## Portifolio pessoal 
 
-[Sistema de salario](#sistema-de-salario) 
+[Sistema de salario](#portifolio-pessoal) 
 [Introdução](#introdu%C3%A7%C3%A3o)
 [Descrição](#descri%C3%A7%C3%A3o)
 [Como usar](#como-usar)
