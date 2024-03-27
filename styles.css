@@ -3,8 +3,8 @@ body {
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: center; 
+    align-items: center; 
     height: 100vh;
     background-color: #f4f4f4;
 }
@@ -22,9 +22,10 @@ body {
     margin-bottom: 20px;
 }
 
+.form-container label,
 .form-container input,
 .form-container button {
-    width: 100%;
+    width: calc(100% - 22px); 
     padding: 10px;
     margin-bottom: 10px;
     border: 1px solid #ccc;
