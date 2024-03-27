@@ -1,11 +1,10 @@
 # Ìndice
 
 [Sistema de salario](#sistema-de-salario) 
-[Descrição](#descri%C3%A7%C3%A3o)
 [Introdução](#introdu%C3%A7%C3%A3o)
+[Descrição](#descri%C3%A7%C3%A3o)
 [Como usar](#como-usar)
 [Tecnologias ultilizadas](#tecnologias-ultilizadas)
-[Contribuindo](#contribuindo)
 [Fontes consultadas](#fontes-consultadas)
 [Autores](#autores)
 
@@ -13,14 +12,17 @@
 
 ![Capa do projeto]
 
-## Descrição
-Esta atividade de Programação Web II, datada de 27/03/2024, foi desenvolvida para auxiliar empresas no cálculo do salário de seus vendedores. O programa permite calcular o salário com base no desempenho em relação às metas de vendas estabelecidas.
-
-O sistema solicita o nome do vendedor, bem como a meta de vendas semanal e mensal. Com esses dados, é possível determinar o salário final do vendedor, levando em consideração o cumprimento ou excedente das metas. 
-
 ## Introdução
+Olá, Bem-vindo à Calculadora de Salário de Vendedor! Este sistema foi criado para simplificar o processo de cálculo de salários para vendedores de empresas. Com este aplicativo web, as empresas podem inserir as metas de vendas semanais e mensais de seus vendedores e, com base nos resultados alcançados, determinar o salário final de cada vendedor.
+
+## Descrição
+Esta é uma aplicação web desenvolvida como parte do curso de Programação Web II, com data de criação em 27/03/2024. O objetivo desta aplicação é fornecer uma ferramenta para empresas calcularem os salários de seus vendedores com base no desempenho em relação às metas de vendas estabelecidas.
 
 ## Como usar
+1 - Clone o repositório para a sua máquina local.
+2 - Abra o arquivo index.php em um navegador web.
+3 - Preencha o formulário com o nome do vendedor, a meta de vendas semanal e a meta de vendas mensal.
+4 - Clique no botão "Calcular Salário" para ver o resultado do cálculo.
 
 ## Tecnologias ultilizadas 
 
@@ -33,8 +35,6 @@ O sistema solicita o nome do vendedor, bem como a meta de vendas semanal e mensa
  * ``HTML``
 
  * ``CSS``
-
-## Contribuindo
 
 ## Fontes consultadas 
 
