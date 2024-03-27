@@ -9,18 +9,27 @@ body {
     background-color: #f4f4f4;
 }
 
+.container {
+    text-align: center;
+}
+
 .form-container {
     width: 300px;
     padding: 20px;
     background-color: #fff;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    text-align: center;
+    display: inline-block; /* Adicionado */
 }
 
+.form-container h2 {
+    margin-bottom: 20px;
+}
+
+.form-container label,
 .form-container input,
 .form-container button {
-    width: calc(100% - 22px);
+    width: 100%;
     padding: 10px;
     margin-bottom: 10px;
     border: 1px solid #ccc;
@@ -42,4 +51,5 @@ body {
 .form-container h3,
 .form-container p {
     margin: 10px 0;
+    text-align: left; /* Ajustado para alinhamento à esquerda */
 }
