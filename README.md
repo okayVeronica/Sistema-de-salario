@@ -8,7 +8,7 @@
 [Fontes consultadas](#fontes-consultadas)
 [Autores](#autores)
 
-![Capa do projeto]
+![Capa do projeto](img.1.png)
 
 ## Introdução
 Olá, Bem-vindo à Calculadora de Salário de Vendedor! Este sistema foi criado para simplificar o processo de cálculo de salários para vendedores de empresas. Com este aplicativo web, as empresas podem inserir as metas de vendas semanais e mensais de seus vendedores e, com base nos resultados alcançados, determinar o salário final de cada vendedor.
