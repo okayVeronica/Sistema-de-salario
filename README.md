@@ -1,4 +1,4 @@
-# Ìndice
+## Portifolio pessoal 
 
 [Sistema de salario](#sistema-de-salario) 
 [Introdução](#introdu%C3%A7%C3%A3o)
@@ -7,8 +7,6 @@
 [Tecnologias ultilizadas](#tecnologias-ultilizadas)
 [Fontes consultadas](#fontes-consultadas)
 [Autores](#autores)
-
-## Portifolio pessoal 
 
 ![Capa do projeto]
 
