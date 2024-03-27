@@ -17,10 +17,10 @@ Olá, Bem-vindo à Calculadora de Salário de Vendedor! Este sistema foi criado 
 Esta é uma aplicação web desenvolvida como parte do curso de Programação Web II, com data de criação em 27/03/2024. O objetivo desta aplicação é fornecer uma ferramenta para empresas calcularem os salários de seus vendedores com base no desempenho em relação às metas de vendas estabelecidas.
 
 ## Como usar
-1 - Clone o repositório para a sua máquina local.
-2 - Abra o arquivo index.php em um navegador web.
-3 - Preencha o formulário com o nome do vendedor, a meta de vendas semanal e a meta de vendas mensal.
-4 - Clique no botão "Calcular Salário" para ver o resultado do cálculo.
+* 1 - Clone o repositório para a sua máquina local.
+* 2 - Abra o arquivo index.php em um navegador web.
+* 3 - Preencha o formulário com o nome do vendedor, a meta de vendas semanal e a meta de vendas mensal.
+* 4 - Clique no botão "Calcular Salário" para ver o resultado do cálculo.
 
 ## Tecnologias ultilizadas 
 
