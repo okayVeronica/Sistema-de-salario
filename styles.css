@@ -8,7 +8,7 @@ body {
     height: 100vh;
     background-color: #f4f4f4;
 }
- 
+
 .form-container {
     width: 300px;
     padding: 20px;
@@ -16,13 +16,12 @@ body {
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
- 
+
 .form-container h2 {
     text-align: center;
     margin-bottom: 20px;
 }
- 
-.form-container label,
+
 .form-container input,
 .form-container button {
     width: 100%;
@@ -32,20 +31,20 @@ body {
     border-radius: 4px;
     box-sizing: border-box;
 }
- 
+
 .form-container button {
     background-color: #4caf50;
     color: #fff;
     border: none;
     cursor: pointer;
 }
- 
+
 .form-container button:hover {
     background-color: #45a049;
 }
- 
+
 .form-container h3,
 .form-container p {
     text-align: center;
+    margin: 10px 0;
 }
- 
